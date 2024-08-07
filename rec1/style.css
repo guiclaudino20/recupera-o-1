@@ -1,0 +1,29 @@
+header {
+    background-color: #e0e0e0; 
+    margin: 1cm; 
+    padding: 10px; 
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    background-color: #c0c0c0; 
+    margin: 1cm; 
+    padding: 30px; 
+    color: #000000; 
+}
+
+#lema {
+    text-align: center; 
+    font-size: 32px; 
+    font-style: italic; 
+    margin: 0;
+}
+
+#autor {
+    text-align: right;
+    font-size: 16px;
+    margin: 0; 
+}
